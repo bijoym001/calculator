@@ -28,4 +28,3 @@ switch(operations){
         console.log("Error!")
 
 }
-
